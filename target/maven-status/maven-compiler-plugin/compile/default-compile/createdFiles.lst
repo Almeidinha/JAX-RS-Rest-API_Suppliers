@@ -1,0 +1,6 @@
+com\almeida\supplier\entity\Supplier.class
+com\almeida\supplier\resources\SupplierResources.class
+com\almeida\supplier\ConstrainViolationExceptionMapper.class
+com\almeida\supplier\ApplicationConfig.class
+com\almeida\supplier\repository\SupplierRepository.class
+com\almeida\supplier\ResourceUriBuilder.class
